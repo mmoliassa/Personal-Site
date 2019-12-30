@@ -468,12 +468,12 @@ button:focus {
   .banner-content .primary-btn {
     position:relative;
     top:0px;
-    background: #e45447;
+    background: #a3211c;
     border: 2px solid transparent;
     color: #fff; }
     .banner-content .primary-btn:hover {
       background: transparent;
-      border-color: #e45447;
+      border-color: #a3211c;
       color: #000; }
   .banner-content h1 {
     position:relative;
